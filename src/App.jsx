@@ -58,7 +58,7 @@ const App = () => {
         <div className="logo-section">
          <div className="logo">
   <img 
-    src="public/logo.png" 
+    src="/logo.png" 
     alt="Channel Logo" 
     className="logo-img" 
   />
